@@ -1,0 +1,6 @@
+threshold: 75
+cooldown: 60
+zone: asia-south1-c
+machine_type: e2-micro
+project: vccassignment2-488804
+max_instances: 1
